@@ -1,0 +1,12 @@
+{
+    "name": "webserver2",
+    "version": "0.0.1",
+    "private": "true",
+    "dependencies": {
+        "express": "*",
+        "nodemon": "^2.0.7"
+    },
+    "scripts": {
+        "start": "nodemon app.js "
+    }
+}
